@@ -1,16 +1,23 @@
-## Hi there 👋
+# Joshua Max-Dixon
 
-<!--
-**joshuamaxdixon-cmd/joshuamaxdixon-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Western Governors University.
 
-Here are some ideas to get you started:
+Currently building skills in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Linux
+- Networking
+- Cloud Infrastructure
+
+Experience working in a secure data center environment supporting cloud infrastructure operations.
+
+## Projects
+
+- Python Server Monitor
+- Python Port Scanner
+- Log File Analyzer
+- Cloud Infrastructure Notes
+
+## Career Goals
+
+Transition into IT infrastructure, data center operations, and cloud computing roles.
