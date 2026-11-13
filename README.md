@@ -2,7 +2,7 @@
 
 Software and cloud engineer based in Columbus, Ohio. I build Python web applications, configure AWS hosting, and create Linux automation and monitoring tools across independent development and academic projects.
 
-[Portfolio](https://www.cloudwithjosh.com/) · [LinkedIn](https://www.linkedin.com/in/joshua-max-dixon-6861b01b3) · [joshuamaxdixon@gmail.com](mailto:joshuamaxdixon@gmail.com)
+[Portfolio](https://www.cloudwithjosh.com/) · [LinkedIn](https://www.linkedin.com/in/joshua-max-dixon-6861b01b3) · [Email](mailto:joshuamaxdixon@gmail.com)
 
 ## What I Work On
 
