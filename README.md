@@ -2,7 +2,7 @@
 
 Software and cloud engineer based in Columbus, Ohio. I build Python web applications, configure AWS hosting, and create Linux automation and monitoring tools across independent development and academic projects.
 
-[Portfolio](https://cloudwithjosh.com) · [LinkedIn](https://www.linkedin.com/in/joshua-max-dixon-6861b01b3) · [Email](mailto:joshuamaxdixon@gmail.com)
+[Portfolio](https://www.cloudwithjosh.com/) · [LinkedIn](https://www.linkedin.com/in/joshua-max-dixon-6861b01b3) · [joshuamaxdixon@gmail.com](mailto:joshuamaxdixon@gmail.com)
 
 ## What I Work On
 
@@ -13,7 +13,7 @@ Software and cloud engineer based in Columbus, Ohio. I build Python web applicat
 
 ## Selected Projects
 
-- [NexGEN Healthcare](https://cloudwithjosh.com/projects/nexgen-healthcare): healthcare intake, visit records, role-specific workspaces, visit-state transitions, and visit-linked messaging. Flask, SQLAlchemy, Linux, and AWS EC2.
+- [NexGEN Healthcare](https://nexgenhealthapp.com/): healthcare intake, visit records, role-specific workspaces, visit-state transitions, and visit-linked messaging. Flask, SQLAlchemy, Linux, and AWS EC2.
 - [System Monitor Dashboard](https://github.com/joshuamaxdixon-cmd/system-monitor-dashboard): CPU and memory sampling, monitoring history, JSON reporting, and custom CloudWatch request and response-time metrics. SQLite and PostgreSQL configuration support.
 - [Cloud Log Analyzer](https://github.com/joshuamaxdixon-cmd/cloud-log-analyzer-python): uploaded-log analysis, INFO/WARNING/ERROR counts, repeated-message summaries, and SQLite-backed history endpoints.
 - [Log File Analyzer](https://github.com/joshuamaxdixon-cmd/log-file-analyzer): Python tools for extracting operational information from log files.
